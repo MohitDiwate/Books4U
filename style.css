@@ -1,0 +1,49 @@
+
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+body{
+    background-color:black;
+}
+nav{
+    background-color:blueviolet;
+}
+.navbar-brand{
+    font-size:35px;
+}
+.nav-item{
+    font-size:19px;
+}
+#home{
+    margin-top:200px;
+}
+#home h1{
+    font-size:35px;
+    color:white;
+}
+#home span{
+    font-size:75px;
+    color:blueviolet;
+}
+#home h2{
+    font-size:50px;
+    color:orange;
+    margin:10px 0 20px;
+}
+.home a{
+   color:blueviolet;
+   text-decoration: none;
+}
+.btn1{
+    height:50px;
+    width:110px;
+    border:none;
+    outline:none;
+    background-color:orange;
+    color:black;
+    font-size:24px;
+    border-radius:10px;
+    margin-top:10px;
+}
